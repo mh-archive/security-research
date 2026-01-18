@@ -1,1 +1,1 @@
-# security-research
+Initial security research portfolio with anonymized case study
